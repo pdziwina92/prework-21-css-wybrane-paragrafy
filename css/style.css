@@ -1,6 +1,7 @@
 p {
     width: 100px;
     height: 100px;
+    background-color: red;
 }
 
 .blue {
@@ -8,7 +9,6 @@ p {
 }
 
 .transparent {
-    background-color: blue;
     opacity: 0.5;
 }
 
